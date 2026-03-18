@@ -1,0 +1,1195 @@
+[
+  {
+    "name": "1 On 1 Basketball",
+    "path": "1-on-1-basketball",
+    "size": 1287,
+    "devices": [
+      "pc-no-touch",
+      "pc-touch"
+    ]
+  },
+  {
+    "name": "1 On 1 Football",
+    "path": "1-on-1-football",
+    "size": 990,
+    "devices": [
+      "pc-touch",
+      "pc-no-touch"
+    ]
+  },
+  {
+    "name": "1 On 1 Hockey",
+    "path": "1-on-1-hockey",
+    "size": 7294,
+    "devices": [
+      "pc-touch",
+      "pc-no-touch"
+    ]
+  },
+  {
+    "name": "1 On 1 Soccer",
+    "path": "1-on-1-soccer",
+    "size": 1284,
+    "devices": [
+      "pc-touch",
+      "pc-no-touch"
+    ]
+  },
+  {
+    "name": "1 On 1 Soccer Brazil",
+    "path": "1-on-1-soccer-brazil",
+    "size": 1264,
+    "devices": [
+      "pc-no-touch",
+      "pc-touch"
+    ]
+  },
+  {
+    "name": "1 On 1 Tennis",
+    "path": "1-on-1-tennis",
+    "size": 1279,
+    "devices": [
+      "pc-touch",
+      "pc-no-touch"
+    ]
+  },
+  {
+    "name": "1 Will Survive 2",
+    "path": "1-will-survive-2",
+    "size": 1281,
+    "devices": [
+      "mobile",
+      "pc-touch",
+      "pc-no-touch",
+      "tablet"
+    ]
+  },
+  {
+    "name": "10 Bullets",
+    "path": "10-bullets",
+    "size": 1282,
+    "devices": [
+      "mobile",
+      "pc-touch",
+      "pc-no-touch",
+      "tablet"
+    ]
+  },
+  {
+    "name": "10 More Bullets",
+    "path": "10-more-bullets",
+    "size": 1361,
+    "devices": [
+      "tablet",
+      "pc-no-touch",
+      "pc-touch",
+      "mobile"
+    ]
+  },
+  {
+    "name": "100 Meter Sprint",
+    "path": "100-meter-sprint",
+    "size": 904,
+    "devices": [
+      "pc-touch",
+      "pc-no-touch"
+    ]
+  },
+  {
+    "name": "1001 Arabian Nights",
+    "path": "1001-arabian-nights",
+    "size": 898,
+    "devices": [
+      "mobile",
+      "pc-touch",
+      "pc-no-touch",
+      "tablet"
+    ]
+  },
+  {
+    "name": "12 Minibattles",
+    "path": "12-minibattles",
+    "size": 1530,
+    "devices": [
+      "mobile",
+      "pc-touch",
+      "pc-no-touch",
+      "tablet"
+    ]
+  },
+  {
+    "name": "13 Days In Hell",
+    "path": "13-days-in-hell",
+    "size": 895,
+    "devices": [
+      "mobile",
+      "pc-touch",
+      "pc-no-touch",
+      "tablet"
+    ]
+  },
+  {
+    "name": "13 In 1 Solitaire",
+    "path": "13-in-1-solitaire",
+    "size": 15156,
+    "devices": [
+      "mobile",
+      "pc-touch",
+      "pc-no-touch",
+      "tablet"
+    ]
+  },
+  {
+    "name": "1v1.lol",
+    "path": "1v1-lol",
+    "size": 14218,
+    "devices": [
+      "pc-touch",
+      "pc-no-touch"
+    ]
+  },
+  {
+    "name": "2 Player Chess",
+    "path": "2-player-chess",
+    "size": 858,
+    "devices": [
+      "mobile",
+      "pc-touch",
+      "pc-no-touch",
+      "tablet"
+    ]
+  },
+  {
+    "name": "2 Player Dino Run",
+    "path": "2-player-dino-run",
+    "size": 1498358,
+    "devices": [
+      "pc-no-touch",
+      "pc-touch"
+    ]
+  },
+  {
+    "name": "2048",
+    "path": "2048",
+    "size": 4544,
+    "devices": [
+      "mobile",
+      "pc-touch",
+      "pc-no-touch",
+      "tablet"
+    ]
+  },
+  {
+    "name": "2048 Legend",
+    "path": "2048-legend",
+    "size": 1652,
+    "devices": [
+      "mobile",
+      "pc-no-touch",
+      "pc-touch",
+      "tablet"
+    ]
+  },
+  {
+    "name": "2048 Shoot",
+    "path": "2048-shoot",
+    "size": 4805,
+    "devices": [
+      "mobile",
+      "pc-touch",
+      "pc-no-touch",
+      "tablet"
+    ]
+  },
+  {
+    "name": "2048 X2 Legends",
+    "path": "2048-x2-legends",
+    "size": 1155666,
+    "devices": [
+      "mobile",
+      "pc-touch",
+      "pc-no-touch",
+      "tablet"
+    ]
+  },
+  {
+    "name": "3 Little Heroes",
+    "path": "3-little-heroes",
+    "size": 1097,
+    "devices": [
+      "pc-touch",
+      "pc-no-touch"
+    ]
+  },
+  {
+    "name": "3 On 3 Hockey",
+    "path": "3-on-3-hockey",
+    "size": 1103,
+    "devices": [
+      "pc-touch",
+      "pc-no-touch"
+    ]
+  },
+  {
+    "name": "3 Pandas",
+    "path": "3-pandas",
+    "size": 1093,
+    "devices": [
+      "mobile",
+      "pc-touch",
+      "pc-no-touch",
+      "tablet"
+    ]
+  },
+  {
+    "name": "3 Pandas 2 Night",
+    "path": "3-pandas-2-night",
+    "size": 1099,
+    "devices": [
+      "mobile",
+      "pc-no-touch",
+      "tablet",
+      "pc-touch"
+    ]
+  },
+  {
+    "name": "3 Pandas In Brazil",
+    "path": "3-pandas-in-brazil",
+    "size": 1101,
+    "devices": [
+      "mobile",
+      "pc-touch",
+      "pc-no-touch",
+      "tablet"
+    ]
+  },
+  {
+    "name": "3 Pandas In Japan",
+    "path": "3-pandas-in-japan",
+    "size": 1083,
+    "devices": [
+      "mobile",
+      "pc-touch",
+      "pc-no-touch",
+      "tablet"
+    ]
+  },
+  {
+    "name": "3 Slices",
+    "path": "3-slices",
+    "size": 1111,
+    "devices": [
+      "mobile",
+      "pc-touch",
+      "pc-no-touch",
+      "tablet"
+    ]
+  },
+  {
+    "name": "3 Slices 2",
+    "path": "3-slices-2",
+    "size": 1087,
+    "devices": [
+      "tablet",
+      "pc-no-touch",
+      "pc-touch",
+      "mobile"
+    ]
+  },
+  {
+    "name": "40x Escape",
+    "path": "40x-escape",
+    "size": 1086,
+    "devices": [
+      "mobile",
+      "pc-touch",
+      "pc-no-touch",
+      "tablet"
+    ]
+  },
+  {
+    "name": "5xman",
+    "path": "5xman",
+    "size": 1080,
+    "devices": [
+      "pc-touch",
+      "pc-no-touch"
+    ]
+  },
+  {
+    "name": "60 Second Burger Run",
+    "path": "60-second-burger-run",
+    "size": 1130,
+    "devices": [
+      "pc-no-touch",
+      "pc-touch"
+    ]
+  },
+  {
+    "name": "60 Seconds Santa Run",
+    "path": "60-seconds-santa-run",
+    "size": 1095,
+    "devices": [
+      "pc-touch",
+      "pc-no-touch"
+    ]
+  },
+  {
+    "name": "7 Days Without Rain",
+    "path": "7-days-without-rain",
+    "size": 1109,
+    "devices": []
+  },
+  {
+    "name": "7th Inning Smash",
+    "path": "7th-inning-smash",
+    "size": 1096,
+    "devices": []
+  },
+  {
+    "name": "8 Ball Pool",
+    "path": "8-ball-pool",
+    "size": 1098,
+    "devices": []
+  },
+  {
+    "name": "99 Balls",
+    "path": "99-balls",
+    "size": 924219,
+    "devices": []
+  },
+  {
+    "name": "99 Bricks",
+    "path": "99-bricks",
+    "size": 1369,
+    "devices": []
+  },
+  {
+    "name": "A Bonte Escape",
+    "path": "a-bonte-escape",
+    "size": 1057,
+    "devices": []
+  },
+  {
+    "name": "A Dance Of Fire And Ice",
+    "path": "a-dance-of-fire-and-ice",
+    "size": 2145,
+    "devices": []
+  },
+  {
+    "name": "A Grim Chase",
+    "path": "a-grim-chase",
+    "size": 637,
+    "devices": []
+  },
+  {
+    "name": "A Grim Granny",
+    "path": "a-grim-granny",
+    "size": 626,
+    "devices": []
+  },
+  {
+    "name": "A Grim Love Tale",
+    "path": "a-grim-love-tale",
+    "size": 619,
+    "devices": []
+  },
+  {
+    "name": "A Gun In Time",
+    "path": "a-gun-in-time",
+    "size": 915,
+    "devices": []
+  },
+  {
+    "name": "A Koopas Revenge",
+    "path": "a-koopas-revenge",
+    "size": 931,
+    "devices": []
+  },
+  {
+    "name": "A Koopas Revenge 2",
+    "path": "a-koopas-revenge-2",
+    "size": 936,
+    "devices": []
+  },
+  {
+    "name": "Abandoned",
+    "path": "abandoned",
+    "size": 968,
+    "devices": []
+  },
+  {
+    "name": "Abandoned The Cube Chambers",
+    "path": "abandoned-the-cube-chambers",
+    "size": 957,
+    "devices": []
+  },
+  {
+    "name": "Above Average Guy",
+    "path": "above-average-guy",
+    "size": 961,
+    "devices": []
+  },
+  {
+    "name": "Absorbed",
+    "path": "absorbed",
+    "size": 957,
+    "devices": []
+  },
+  {
+    "name": "Abuba The Alien",
+    "path": "abuba-the-alien",
+    "size": 971,
+    "devices": []
+  },
+  {
+    "name": "Ace Gangster",
+    "path": "ace-gangster",
+    "size": 979,
+    "devices": []
+  },
+  {
+    "name": "Ace Gangster Taxi",
+    "path": "ace-gangster-taxi",
+    "size": 1022,
+    "devices": []
+  },
+  {
+    "name": "Achievement Unlocked",
+    "path": "achievement-unlocked",
+    "size": 998,
+    "devices": []
+  },
+  {
+    "name": "Achievement Unlocked 2",
+    "path": "achievement-unlocked-2",
+    "size": 1000,
+    "devices": []
+  },
+  {
+    "name": "Achievement Unlocked 3",
+    "path": "achievement-unlocked-3",
+    "size": 1000,
+    "devices": []
+  },
+  {
+    "name": "Achilles",
+    "path": "achilles",
+    "size": 988,
+    "devices": []
+  },
+  {
+    "name": "Acid Bunny",
+    "path": "acid-bunny",
+    "size": 1007,
+    "devices": []
+  },
+  {
+    "name": "Acid Bunny 2",
+    "path": "acid-bunny-2",
+    "size": 983,
+    "devices": []
+  },
+  {
+    "name": "Acid Rain",
+    "path": "acid-rain",
+    "size": 995,
+    "devices": []
+  },
+  {
+    "name": "Action Turnip",
+    "path": "action-turnip",
+    "size": 1060,
+    "devices": []
+  },
+  {
+    "name": "Adam And Eve",
+    "path": "adam-and-eve",
+    "size": 1081,
+    "devices": []
+  },
+  {
+    "name": "Adam And Eve 2",
+    "path": "adam-and-eve-2",
+    "size": 1080,
+    "devices": []
+  },
+  {
+    "name": "Adam And Eve 3",
+    "path": "adam-and-eve-3",
+    "size": 1086,
+    "devices": []
+  },
+  {
+    "name": "Adventure Capitalist",
+    "path": "adventure-capitalist",
+    "size": 2579,
+    "devices": []
+  },
+  {
+    "name": "Age Of Defense",
+    "path": "age-of-defense",
+    "size": 935,
+    "devices": []
+  },
+  {
+    "name": "Age Of Defense 3",
+    "path": "age-of-defense-3",
+    "size": 937,
+    "devices": []
+  },
+  {
+    "name": "Age Of Defense 4",
+    "path": "age-of-defense-4",
+    "size": 930,
+    "devices": []
+  },
+  {
+    "name": "Age Of War",
+    "path": "age-of-war",
+    "size": 942,
+    "devices": []
+  },
+  {
+    "name": "Age Of War 2",
+    "path": "age-of-war-2",
+    "size": 943,
+    "devices": []
+  },
+  {
+    "name": "Agent B10",
+    "path": "agent-b10",
+    "size": 929,
+    "devices": []
+  },
+  {
+    "name": "Agent B10 2",
+    "path": "agent-b10-2",
+    "size": 931,
+    "devices": []
+  },
+  {
+    "name": "Ahoy Survival",
+    "path": "ahoy-survival",
+    "size": 1064,
+    "devices": []
+  },
+  {
+    "name": "Air Hockey Cup",
+    "path": "air-hockey-cup",
+    "size": 1062,
+    "devices": []
+  },
+  {
+    "name": "Airport Madness 3",
+    "path": "airport-madness-3",
+    "size": 938,
+    "devices": []
+  },
+  {
+    "name": "Alexander Dawn Of An Empire",
+    "path": "alexander-dawn-of-an-empire",
+    "size": 934,
+    "devices": []
+  },
+  {
+    "name": "Alien Complex",
+    "path": "alien-complex",
+    "size": 934,
+    "devices": []
+  },
+  {
+    "name": "Alien Hominid",
+    "path": "alien-hominid",
+    "size": 934,
+    "devices": []
+  },
+  {
+    "name": "Alien Striker",
+    "path": "alien-striker",
+    "size": 934,
+    "devices": []
+  },
+  {
+    "name": "Alien Transporter",
+    "path": "alien-transporter",
+    "size": 963,
+    "devices": []
+  },
+  {
+    "name": "Alone In The Madness",
+    "path": "alone-in-the-madness",
+    "size": 946,
+    "devices": []
+  },
+  {
+    "name": "Amateur Surgeon",
+    "path": "amateur-surgeon",
+    "size": 938,
+    "devices": []
+  },
+  {
+    "name": "Amazing Strange Rope Police",
+    "path": "amazing-strange-rope-police",
+    "size": 894,
+    "devices": []
+  },
+  {
+    "name": "Ambulance Rush",
+    "path": "ambulance-rush",
+    "size": 1060,
+    "devices": []
+  },
+  {
+    "name": "Angry Birds",
+    "path": "angry-birds",
+    "size": 997,
+    "devices": []
+  },
+  {
+    "name": "Angry Heroes",
+    "path": "angry-heroes",
+    "size": 2271,
+    "devices": []
+  },
+  {
+    "name": "Animal Raceway",
+    "path": "animal-raceway",
+    "size": 2164,
+    "devices": []
+  },
+  {
+    "name": "Animal Shelter",
+    "path": "animal-shelter",
+    "size": 2158,
+    "devices": []
+  },
+  {
+    "name": "Animals Clicker",
+    "path": "animals-clicker",
+    "size": 2441,
+    "devices": []
+  },
+  {
+    "name": "Animatronic Jumpscare Factory",
+    "path": "animatronic-jumpscare-factory",
+    "size": 2158,
+    "devices": []
+  },
+  {
+    "name": "Ant War",
+    "path": "ant-war",
+    "size": 2140,
+    "devices": []
+  },
+  {
+    "name": "Apple Shooter",
+    "path": "apple-shooter",
+    "size": 2158,
+    "devices": []
+  },
+  {
+    "name": "Apple Shooter Champ",
+    "path": "apple-shooter-champ",
+    "size": 2158,
+    "devices": []
+  },
+  {
+    "name": "Apple Worm",
+    "path": "apple-worm",
+    "size": 2143,
+    "devices": []
+  },
+  {
+    "name": "Aqua Boy",
+    "path": "aqua-boy",
+    "size": 2144,
+    "devices": []
+  },
+  {
+    "name": "Arcane",
+    "path": "arcane",
+    "size": 2143,
+    "devices": []
+  },
+  {
+    "name": "Arcane Weapon",
+    "path": "arcane-weapon",
+    "size": 2168,
+    "devices": []
+  },
+  {
+    "name": "Archer Ragdoll",
+    "path": "archer-ragdoll",
+    "size": 2663,
+    "devices": []
+  },
+  {
+    "name": "Armed With Wings",
+    "path": "armed-with-wings",
+    "size": 1742,
+    "devices": []
+  },
+  {
+    "name": "Armed With Wings 2",
+    "path": "armed-with-wings-2",
+    "size": 1735,
+    "devices": []
+  },
+  {
+    "name": "Armed With Wings 3",
+    "path": "armed-with-wings-3",
+    "size": 1734,
+    "devices": []
+  },
+  {
+    "name": "Armor Mayhem",
+    "path": "armor-mayhem",
+    "size": 1736,
+    "devices": []
+  },
+  {
+    "name": "Army Of Ages",
+    "path": "army-of-ages",
+    "size": 1745,
+    "devices": []
+  },
+  {
+    "name": "Arrow Hero",
+    "path": "arrow-hero",
+    "size": 1727,
+    "devices": []
+  },
+  {
+    "name": "Askl",
+    "path": "askl",
+    "size": 1737,
+    "devices": []
+  },
+  {
+    "name": "Aspiring Artist",
+    "path": "aspiring-artist",
+    "size": 3918,
+    "devices": []
+  },
+  {
+    "name": "Atari Breakout",
+    "path": "atari-breakout",
+    "size": 1731,
+    "devices": []
+  },
+  {
+    "name": "Awesome Conquest",
+    "path": "awesome-conquest",
+    "size": 1732,
+    "devices": []
+  },
+  {
+    "name": "Awesome Happy Heroes",
+    "path": "awesome-happy-heroes",
+    "size": 1740,
+    "devices": []
+  },
+  {
+    "name": "Awesome Pirates",
+    "path": "awesome-pirates",
+    "size": 1781,
+    "devices": []
+  },
+  {
+    "name": "Awesome Planes",
+    "path": "awesome-planes",
+    "size": 1735,
+    "devices": []
+  },
+  {
+    "name": "Awesome Run",
+    "path": "awesome-run",
+    "size": 1747,
+    "devices": []
+  },
+  {
+    "name": "Awesome Run 2",
+    "path": "awesome-run-2",
+    "size": 1750,
+    "devices": []
+  },
+  {
+    "name": "Awesome Seaquest",
+    "path": "awesome-seaquest",
+    "size": 1736,
+    "devices": []
+  },
+  {
+    "name": "Awesome Tanks",
+    "path": "awesome-tanks",
+    "size": 1764,
+    "devices": []
+  },
+  {
+    "name": "Awesome Tanks 2",
+    "path": "awesome-tanks-2",
+    "size": 1743,
+    "devices": []
+  },
+  {
+    "name": "Axis Football League",
+    "path": "axis-football-league",
+    "size": 1748,
+    "devices": []
+  },
+  {
+    "name": "Babel Tower",
+    "path": "babel-tower",
+    "size": 1555,
+    "devices": []
+  },
+  {
+    "name": "Baby Chicco Adventures",
+    "path": "baby-chicco-adventures",
+    "size": 2543,
+    "devices": []
+  },
+  {
+    "name": "Backflip Maniac",
+    "path": "backflip-maniac",
+    "size": 1729,
+    "devices": []
+  },
+  {
+    "name": "Backrooms",
+    "path": "backrooms",
+    "size": 1654,
+    "devices": []
+  },
+  {
+    "name": "Backyard Baseball",
+    "path": "backyard-baseball",
+    "size": 1754,
+    "devices": []
+  },
+  {
+    "name": "Bad Piggies",
+    "path": "bad-piggies",
+    "size": 1733,
+    "devices": []
+  },
+  {
+    "name": "Bad Time Simulator",
+    "path": "bad-time-simulator",
+    "size": 2076,
+    "devices": []
+  },
+  {
+    "name": "Baldis Basics",
+    "path": "baldis-basics",
+    "size": 1731,
+    "devices": []
+  },
+  {
+    "name": "Ball Blast",
+    "path": "ball-blast",
+    "size": 2008,
+    "devices": []
+  },
+  {
+    "name": "Balloon In A Wasteland",
+    "path": "balloon-in-a-wasteland",
+    "size": 1745,
+    "devices": []
+  },
+  {
+    "name": "Balloon Invasion",
+    "path": "balloon-invasion",
+    "size": 1737,
+    "devices": []
+  },
+  {
+    "name": "Banana Dash",
+    "path": "banana-dash",
+    "size": 1745,
+    "devices": []
+  },
+  {
+    "name": "Banana Dash 3",
+    "path": "banana-dash-3",
+    "size": 1745,
+    "devices": []
+  },
+  {
+    "name": "Banana Dash World 2",
+    "path": "banana-dash-world-2",
+    "size": 1745,
+    "devices": []
+  },
+  {
+    "name": "Bank Robbery 2",
+    "path": "bank-robbery-2",
+    "size": 9515,
+    "devices": []
+  },
+  {
+    "name": "Barry Prison Escape",
+    "path": "barry-prison-escape",
+    "size": 4341,
+    "devices": []
+  },
+  {
+    "name": "Bartender The Right Mix",
+    "path": "bartender-the-right-mix",
+    "size": 1937,
+    "devices": []
+  },
+  {
+    "name": "Baseball Blast",
+    "path": "baseball-blast",
+    "size": 1938,
+    "devices": []
+  },
+  {
+    "name": "Baseball Bros",
+    "path": "baseball-bros",
+    "size": 5071,
+    "devices": []
+  },
+  {
+    "name": "Baseball League",
+    "path": "baseball-league",
+    "size": 1945,
+    "devices": []
+  },
+  {
+    "name": "Baseball Smash",
+    "path": "baseball-smash",
+    "size": 1941,
+    "devices": []
+  },
+  {
+    "name": "Baseball Stadium",
+    "path": "baseball-stadium",
+    "size": 1938,
+    "devices": []
+  },
+  {
+    "name": "Basket And Ball",
+    "path": "basket-and-ball",
+    "size": 35537,
+    "devices": []
+  },
+  {
+    "name": "Basket Balls",
+    "path": "basket-balls",
+    "size": 1947,
+    "devices": []
+  },
+  {
+    "name": "Basket Bros",
+    "path": "basket-bros",
+    "size": 5222,
+    "devices": []
+  },
+  {
+    "name": "Basket Goal",
+    "path": "basket-goal",
+    "size": 2778,
+    "devices": []
+  },
+  {
+    "name": "Basket Random",
+    "path": "basket-random",
+    "size": 2080,
+    "devices": []
+  },
+  {
+    "name": "Basket Slam Dunk 2",
+    "path": "basket-slam-dunk-2",
+    "size": 2267,
+    "devices": []
+  },
+  {
+    "name": "Basketball Fury",
+    "path": "basketball-fury",
+    "size": 1938,
+    "devices": []
+  },
+  {
+    "name": "Basketball Legends 2020",
+    "path": "basketball-legends-2020",
+    "size": 2982,
+    "devices": []
+  },
+  {
+    "name": "Basketball Master",
+    "path": "basketball-master",
+    "size": 2256,
+    "devices": []
+  },
+  {
+    "name": "Basketball Park",
+    "path": "basketball-park",
+    "size": 1931,
+    "devices": []
+  },
+  {
+    "name": "Basketball Physics",
+    "path": "basketball-physics",
+    "size": 3364,
+    "devices": []
+  },
+  {
+    "name": "Basketball Pro League",
+    "path": "basketball-pro-league",
+    "size": 2536,
+    "devices": []
+  },
+  {
+    "name": "Basketball Shooter",
+    "path": "basketball-shooter",
+    "size": 14545,
+    "devices": []
+  },
+  {
+    "name": "Basketball Stars",
+    "path": "basketball-stars",
+    "size": 3887,
+    "devices": []
+  },
+  {
+    "name": "Basketmole",
+    "path": "basketmole",
+    "size": 2197,
+    "devices": []
+  },
+  {
+    "name": "Battle Bowlers",
+    "path": "battle-bowlers",
+    "size": 2629,
+    "devices": []
+  },
+  {
+    "name": "Battle Gear",
+    "path": "battle-gear",
+    "size": 2179,
+    "devices": []
+  },
+  {
+    "name": "Battle Gear 2",
+    "path": "battle-gear-2",
+    "size": 2173,
+    "devices": []
+  },
+  {
+    "name": "Battle Masters",
+    "path": "battle-masters",
+    "size": 2394,
+    "devices": []
+  },
+  {
+    "name": "Battle Soccer Arena",
+    "path": "battle-soccer-arena",
+    "size": 2718,
+    "devices": []
+  },
+  {
+    "name": "Battlefield",
+    "path": "battlefield",
+    "size": 2196,
+    "devices": []
+  },
+  {
+    "name": "Beach Baseball",
+    "path": "beach-baseball",
+    "size": 2398,
+    "devices": []
+  },
+  {
+    "name": "Bed And Breakfast",
+    "path": "bed-and-breakfast",
+    "size": 2193,
+    "devices": []
+  },
+  {
+    "name": "Bed And Breakfast 2",
+    "path": "bed-and-breakfast-2",
+    "size": 2192,
+    "devices": []
+  },
+  {
+    "name": "Bed And Breakfast 3",
+    "path": "bed-and-breakfast-3",
+    "size": 2186,
+    "devices": []
+  },
+  {
+    "name": "Berzerk Ball 2",
+    "path": "berzerk-ball-2",
+    "size": 2113,
+    "devices": []
+  },
+  {
+    "name": "Best Friends Puzzle",
+    "path": "best-friends-puzzle",
+    "size": 2625,
+    "devices": []
+  },
+  {
+    "name": "Bicycle Kick Champ",
+    "path": "bicycle-kick-champ",
+    "size": 2123,
+    "devices": []
+  },
+  {
+    "name": "Big Flappy Tower Vs Tiny Square",
+    "path": "big-flappy-tower-vs-tiny-square",
+    "size": 2573,
+    "devices": []
+  },
+  {
+    "name": "Big Ice Tower Tiny Square",
+    "path": "big-ice-tower-tiny-square",
+    "size": 7926,
+    "devices": []
+  },
+  {
+    "name": "Big Neon Tower Vs Tiny Square",
+    "path": "big-neon-tower-vs-tiny-square",
+    "size": 6844,
+    "devices": []
+  },
+  {
+    "name": "Big Shot Checker",
+    "path": "big-shot-checker",
+    "size": 2125,
+    "devices": []
+  },
+  {
+    "name": "Big Tall Small",
+    "path": "big-tall-small",
+    "size": 7095,
+    "devices": []
+  },
+  {
+    "name": "Big Time Butter Baron",
+    "path": "big-time-butter-baron",
+    "size": 2118,
+    "devices": []
+  },
+  {
+    "name": "Big Tower Tiny Square",
+    "path": "big-tower-tiny-square",
+    "size": 3680,
+    "devices": []
+  },
+  {
+    "name": "Cookie Clicker",
+    "path": "cookie-clicker",
+    "size": 10268,
+    "devices": []
+  },
+  {
+    "name": "Tank Mayhem",
+    "path": "tank-mayhem",
+    "size": 1738,
+    "devices": []
+  }
+]
